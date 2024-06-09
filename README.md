@@ -18,3 +18,5 @@
 
 🔗 Interactive Filters: Implemented interactive filter allowing users to drill down into specific details.
 
+Visit the interactive dashboard : https://public.tableau.com/app/profile/ajay.dimri/viz/AirBnBDataAnalysis_17177598281570/Dashboard-AirBnBDataAnalysis
+
